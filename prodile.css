@@ -1,0 +1,15 @@
+
+body{background-color: dodgerblue;
+color: white;
+}
+h1{
+  border: solid black ;
+  color: white;
+  
+}
+img{
+  border: 5px solid white;
+}
+h2{
+  border: 2px solid black;
+}
